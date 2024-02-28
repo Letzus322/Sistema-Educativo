@@ -1,0 +1,5 @@
+[18-Sep-2023 22:57:39 UTC] PHP Fatal error:  Call to a member function row() on boolean in /home/zvteypdi/colegioaiapaec.djossystem.com/system/libraries/Session/drivers/Session_database_driver.php on line 409
+[18-Sep-2023 22:57:54 UTC] PHP Fatal error:  Call to a member function row() on boolean in /home/zvteypdi/colegioaiapaec.djossystem.com/system/libraries/Session/drivers/Session_database_driver.php on line 409
+[09-Oct-2023 10:51:23 America/Lima] PHP Fatal error:  Call to undefined method App_lib::licenceVerify() in /home/ewgcgdaj/colegioaiapaec.edu.pe/sistemaacademico/application/controllers/School_settings.php on line 33
+[03-Nov-2023 16:38:45 America/Lima] PHP Fatal error:  Call to undefined function moduleIsEnabled() in /home/ewgcgdaj/colegioaiapaec.edu.pe/sistemaacademico/application/controllers/Sendsmsmail.php on line 22
+[03-Nov-2023 16:38:52 America/Lima] PHP Fatal error:  Call to undefined function moduleIsEnabled() in /home/ewgcgdaj/colegioaiapaec.edu.pe/sistemaacademico/application/controllers/Sendsmsmail.php on line 22
